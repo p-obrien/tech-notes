@@ -6,4 +6,5 @@ Limits to be aware of:
 
 
 Subdomains can send as long as the TLD has been verified.
+AttributesData is an important area that can be used to extend capabilities
 
